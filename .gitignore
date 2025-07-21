@@ -1,0 +1,28 @@
+# Java build files
+*.class
+*.log
+
+# Maven target directory
+/target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and reports
+*.log
+/logs/
+/reports/
+
+# Environment and config
+.env
+*.properties.local
+
+# Artifacts
+*.jar
+*.war
+*.ear
+
+# GitHub Actions artifacts (optional)
+*.zip
+*.tar.gz
