@@ -12,7 +12,6 @@ import static io.restassured.RestAssured.given;
 import static org.testng.Assert.*;
 import io.cucumber.java.en.When;
 import io.cucumber.java.en.Then;
-import io.cucumber.java.en.And;
 
 
 public class BookSteps extends BaseTest {

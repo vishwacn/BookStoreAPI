@@ -3,7 +3,6 @@ package steps;
 import static constants.EndPoints.*;
 import static io.restassured.RestAssured.given;
 import base.BaseTest;
-import config.ConfigManager;
 import io.cucumber.java.en.*;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
